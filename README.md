@@ -1,12 +1,12 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋, Have a nice day</h1>
 
 ###
 
-<p align="left">My name is Huy and I'm a developer, from Ho Chi Minh, VietNam</p>
+<p align="left">My name is Huy and I'm a developer from Ho Chi Minh, VietNam 🧑‍💻</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me🧑🏽</h2>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! Contact</h2>
+<h2 align="left">☎️ Contact</h2>
 
 ###
 
