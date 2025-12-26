@@ -69,7 +69,6 @@
 </picture>
 
 ###
-<img src="https://raw.githubusercontent.com/Hank62-dev/output/output/snake.svg" alt="Snake animation" />
 
 ###
 <div>
