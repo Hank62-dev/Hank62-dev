@@ -57,6 +57,18 @@
 
 ###
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hank62-dev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Hank62-dev&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hank62-dev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Hank62-dev&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Hank62-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 ###
 <div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
