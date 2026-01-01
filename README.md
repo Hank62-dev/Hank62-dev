@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Huy and I'm a developer from Ho Chi Minh, VietNam 🧑‍💻</p>
+<p align="left">My name is Huy and I'm a web developer from Ho Chi Minh, VietNam 🧑‍💻</p>
 
 ###
 
