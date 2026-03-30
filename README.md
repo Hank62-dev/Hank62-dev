@@ -21,4 +21,11 @@ I'm Hank (Hank62-dev), a Software Engineering student and builder focused on bec
 ---
 [![](https://visitcount.itsvg.in/api?id=Hank62-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hank62-dev&show_icons=true&locale=en&layout=compact" alt="hank62-dev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hank62-dev&show_icons=true&locale=en" alt="hank62-dev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hank62-dev&" alt="hank62-dev" /></p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
