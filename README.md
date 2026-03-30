@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Hank62-dev.Hank62-dev&left_color=black&right_color=dimgray&left_text=Visitors"  />
 </div>
-###
+---
  #  About Me:
 I'm Hank (Hank62-dev), a Software Engineering student and builder focused on becoming a Full-Stack and Mobile App Developer.<br><br>Currently Vice President of F-Code Club, I help shape a developer community centered around real-world projects, technical growth, and collaborative learning.<br><br>I build systems with a strong focus on structure, clarity, and practicality — from user interfaces to core logic and data handling. I’m particularly interested in developing applications that are not just functional, but maintainable and scalable.<br><br>As the Champion of R.ODE Battle 2025, I enjoy high-pressure problem-solving environments where performance and thinking matter.<br><br>My journey is centered around mastering both frontend and backend development, while expanding into mobile to deliver complete, end-to-end solutions.<br><br>I don’t just aim to write code — I aim to build systems that work, scale, and last.
 
