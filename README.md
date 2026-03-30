@@ -17,11 +17,10 @@ I'm Hank (Hank62-dev), a Software Engineering student and builder focused on bec
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Hank62-dev.Hank62-dev&left_color=black&right_color=dimgray&left_text=Visitors"  />
 </div>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hank62-dev)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Hank62-dev&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph" /> <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hank62-dev)
   <img src="https://raw.githubusercontent.com/Hank62-dev/Hank62-dev/output/snake.svg" alt="Snake animation" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hank62-dev&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
