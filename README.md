@@ -12,7 +12,7 @@ I'm Hank (Hank62-dev), a Software Engineering student and builder focused on bec
 
 
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hank62-dev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Hank62-dev.Hank62-dev&left_color=black&right_color=dimgray&left_text=Visitors"  />
