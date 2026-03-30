@@ -16,7 +16,7 @@ I'm Hank (Hank62-dev), a Software Engineering student and builder focused on bec
 ![](https://github-profile-trophy.vercel.app/?username=Hank62-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hank62-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hank62-dev&" alt="hank62-dev" /></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hank62-dev&icon=0&color=0)](https://visitcount.itsvg.in)
