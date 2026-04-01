@@ -47,8 +47,7 @@ I'm Hank (Hank62-dev), a Software Engineering student and builder focused on bec
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hank62-dev&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy-git-master-rio2468.vercel.app/?username=Hank62-dev&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hank62-dev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <div align="center">
