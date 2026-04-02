@@ -50,6 +50,8 @@ I'm Hank (Hank62-dev), a Software Engineering student and builder focused on bec
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
+[![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=flat-square&logo=dbeaver&logoColor=white)](https://dbeaver.io/)
 
 [![trophy](https://github-profile-trophy-git-master-rio2468.vercel.app/?username=Hank62-dev&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hank62-dev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
