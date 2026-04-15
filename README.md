@@ -53,8 +53,15 @@ I'm Hank (Hank62-dev), a Software Engineering student and builder focused on bec
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/dbeaver-%23372923.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
 
-[![trophy](https://github-profile-trophy-git-master-rio2468.vercel.app/?username=Hank62-dev&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hank62-dev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-git-master-rio2468.vercel.app/?username=Hank62-dev&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hank62-dev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Hank62-dev.Hank62-dev&left_color=black&right_color=dimgray&left_text=Visitors"  />
