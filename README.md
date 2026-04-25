@@ -53,25 +53,9 @@ I'm Hank (Hank62-dev), a Software Engineering student and builder focused on bec
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/dbeaver-%23372923.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-git-master-rio2468.vercel.app/?username=Hank62-dev&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hank62-dev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hank62-dev.Hank62-dev&left_color=black&right_color=dimgray&left_text=Visitors"  />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hank62-dev&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://raw.githubusercontent.com/Hank62-dev/output/snake.svg" alt="Snake animation" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hank62-dev&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=161seconds&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com?user=161seconds&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=161seconds&layout=compact&theme=tokyonight&hide_border=true)
 
 ###
 
