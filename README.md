@@ -55,11 +55,11 @@ I'm Hank (Hank62-dev), a Software Engineering student and builder focused on bec
 
 
 ##  GitHub Stats
-<div align="center">
-![](https://github-readme-stats.vercel.app/api?username=Hank62-dev&show_icons=true&theme=tokyonight&hide_border=true)
 ![](https://streak-stats.demolab.com?user=Hank62-dev&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api?username=Hank62-dev&show_icons=true&theme=tokyonight&hide_border=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hank62-dev&layout=compact&theme=tokyonight&hide_border=true)
-</div>
 ###
 
 
