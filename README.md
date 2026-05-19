@@ -65,6 +65,6 @@ I'm Hank (Hank62-dev), a Software Engineering student and builder focused on bec
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hank62-dev&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
+![](https://github-readme-activity-graph.vercel.app/graph?username=Hank62-dev&theme=tokyo-night&hide_border=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
