@@ -56,16 +56,11 @@ I'm Hank (Hank62-dev), a Software Engineering student and builder focused on bec
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hank62-dev&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Hank62-dev&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hank62-dev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hank62-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hank62-dev&show_icons=true&theme=tokyonight&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hank62-dev&layout=compact&theme=tokyonight&hide_border=true)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
