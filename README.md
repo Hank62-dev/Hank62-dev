@@ -56,11 +56,12 @@ I'm Hank (Hank62-dev), a Software Engineering student and builder focused on bec
 
 ## GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hank62-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+  <img
+    src="https://github-profile-trophy-liard-delta.vercel.app/?username=Hank62-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"
+    alt="GitHub Trophies"
+  />
+</p>
 ---
 
 ## GitHub Stats
