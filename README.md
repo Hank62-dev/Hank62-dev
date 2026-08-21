@@ -56,19 +56,22 @@ I'm Hank (Hank62-dev), a Software Engineering student and builder focused on bec
 
 ## GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hank62-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+<div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hank62-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 ---
 
 ## GitHub Stats
 
 <div align="center">
 
-![](https://streak-stats.demolab.com?user=Hank62-dev&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Hank62-dev&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=Hank62-dev&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Hank62-dev&layout=compact&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hank62-dev&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Hank62-dev&theme=tokyonight&hide_border=true)
 
 </div>
 
