@@ -56,7 +56,7 @@ I'm Hank (Hank62-dev), a Software Engineering student and builder focused on bec
 
 ## GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=161seconds&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hank62-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
