@@ -67,11 +67,21 @@ I'm Hank (Hank62-dev), a Software Engineering student and builder focused on bec
 
 <div align="center">
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Hank62-dev&show_icons=true&theme=tokyonight&hide_border=true)
+<img
+  src="https://github-stats-extended.vercel.app/api?username=Hank62-dev&show_icons=true&theme=tokyonight&hide_border=true"
+  height="170"
+/>
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hank62-dev&layout=compact&theme=tokyonight&hide_border=true"
+  height="170"
+/>
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Hank62-dev&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Hank62-dev&theme=tokyonight&hide_border=true)
+<img
+  src="https://streak-stats.demolab.com?user=Hank62-dev&theme=tokyonight&hide_border=true"
+  height="170"
+/>
 
 </div>
 
