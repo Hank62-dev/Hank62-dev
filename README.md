@@ -2,6 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=200&section=header&text=Hi,%20I'm%20Hank&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=Hank62-dev&label=Profile%20views&color=0099dd&style=flat" />
 #  About Me
 
 I'm Hank (Hank62-dev), a Software Engineering student and builder focused on becoming a Full-Stack and Mobile App Developer.
