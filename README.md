@@ -1,5 +1,20 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=200&section=header&text=Hi,%20I'm%20Hank&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</div> -->
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:06B6D4&height=210&section=header&text=Hi,%20I'm%20Hank&fontSize=52&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38"
+  width="100%"
+/>
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&height=45&lines=Software+Engineering+Student;Full-Stack+%26+Mobile+Developer;Backend+Building+Systems"
+    alt="Typing SVG"
+  />
+</a>
+
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=Hank62-dev&label=Profile%20views&color=0099dd&style=flat" />
