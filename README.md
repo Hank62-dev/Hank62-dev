@@ -3,6 +3,7 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=Hank62-dev&label=Profile%20views&color=0099dd&style=flat" />
+
 # About Me
 
 I'm Hank (Hank62-dev), a Software Engineering student and builder focused on becoming a Full-Stack and Mobile App Developer.
@@ -108,7 +109,7 @@ I don't just aim to write code — I aim to build systems that work, scale, and 
 
 <div align="center">
 
-![3D Contribution Graph](https://raw.githubusercontent.com/Hank62-dev/Hank62-dev/profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
