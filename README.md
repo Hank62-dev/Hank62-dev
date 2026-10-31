@@ -1,132 +1,243 @@
-<!-- <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=200&section=header&text=Hi,%20I'm%20Hank&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-</div> -->
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:06B6D4&height=210&section=header&text=Hi,%20I'm%20Hank&fontSize=52&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38"
-  width="100%"
-/>
-
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&height=45&lines=Software+Engineering+Student;Full-Stack+%26+Mobile+Developer;Backend+Building+Systems"
-    alt="Typing SVG"
-  />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:0F172A,100:1E3A5F&height=260&section=header&text=V%C3%B5%20Gia%20Huy&fontSize=58&fontColor=89B4FA&fontAlignY=42&desc=Full-Stack%20and%20Mobile%20App%20Developer%20%20%7C%20%20Vice%20President%20F-Code%20Club&descSize=15&descFontColor=94A3B8&descAlignY=62&animation=twinkling" width="100%"/>
 
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=Hank62-dev&label=Profile%20views&color=0099dd&style=flat" />
-
-# About Me
-
-I'm Hank (Hank62-dev), a Software Engineering student and builder focused on becoming a Full-Stack and Mobile App Developer.
-
-Currently Vice President of F-Code Club, I help shape a developer community centered around real-world projects, technical growth, and collaborative learning.
-
-I build systems with a strong focus on structure, clarity, and practicality — from user interfaces to core logic and data handling. I'm particularly interested in developing applications that are not just functional, but maintainable and scalable.
-
-As the Champion of R.ODE Battle 2025, I enjoy high-pressure problem-solving environments where performance and thinking matter.
-
-My journey is centered around mastering both frontend and backend development, while expanding into mobile to deliver complete, end-to-end solutions.
-
-I don't just aim to write code — I aim to build systems that work, scale, and last.
-
-My portfolio: [Hank62-dev](https://hank62dev.vercel.app/)
-##  Socials
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vo.gia.huy.622929)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_username)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@v.gia.huy6226)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huyvog6226@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your_invite_code)
-
-#  Tech Stack And Learning
-
-##  Programming Languages
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-##  Frontend Development
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-##  Backend Development
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-##  Database
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-##  Tools & Others
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![DBeaver](https://img.shields.io/badge/dbeaver-%23372923.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-##  GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-trophies.vercel.app/?username=Hank62-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)
-
-</div>
-
-##  GitHub Stats
-
-<div align="center">
-
-<img
-  src="https://github-stats-extended.vercel.app/api?username=Hank62-dev&show_icons=true&theme=tokyonight&hide_border=true"
-  height="170"
-/>
-<img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hank62-dev&layout=compact&theme=tokyonight&hide_border=true"
-  height="170"
-/>
 
 <br/>
 
-<img
-  src="https://streak-stats.demolab.com?user=Hank62-dev&theme=tokyonight&hide_border=true"
-  height="170"
-/>
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-hank62dev.vercel.app-89B4FA?style=flat-square&logo=vercel&logoColor=89B4FA&labelColor=0F172A)](https://hank62dev.vercel.app/)&ensp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hank62dev-89B4FA?style=flat-square&logo=linkedin&logoColor=89B4FA&labelColor=0F172A)](https://www.linkedin.com/in/hank62dev)&ensp;
+[![Email](https://img.shields.io/badge/Email-huyvog6226@gmail.com-89B4FA?style=flat-square&logo=gmail&logoColor=89B4FA&labelColor=0F172A)](mailto:huyvog6226@gmail.com)&ensp;
+[![Facebook](https://img.shields.io/badge/Facebook-hank62dev-89B4FA?style=flat-square&logo=facebook&logoColor=89B4FA&labelColor=0F172A)](https://www.facebook.com/hank62dev)&ensp;
+[![Instagram](https://img.shields.io/badge/Instagram-hank62dev-89B4FA?style=flat-square&logo=instagram&logoColor=89B4FA&labelColor=0F172A)](https://www.instagram.com/hank62dev)
 
 </div>
 
-<!-- <div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hank62-dev&theme=tokyo-night&hide_border=true)
-
-</div> -->
+<br/>
 
 <div align="center">
 
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=89B4FA&center=true&vCenter=true&width=620&height=36&lines=Building+web+and+mobile+apps+end-to-end;ASP.NET+Core+%C2%B7+Node.js+%C2%B7+React+%C2%B7+Next.js;Clean+APIs.+Solid+data.+Apps+that+scale." alt="Typing SVG"/>
+
+![Location](https://img.shields.io/badge/Location-Ho_Chi_Minh_City,_VN-1E293B?style=flat-square&labelColor=0F172A)&ensp;
+![University](https://img.shields.io/badge/University-FPT_University-1E293B?style=flat-square&labelColor=0F172A)&ensp;
+![Status](https://img.shields.io/badge/Now-Frontend_Intern_%40_VNZ_Company-89B4FA?style=flat-square&labelColor=0F172A)&ensp;
+![Timezone](https://img.shields.io/badge/Timezone-UTC%2B7-1E293B?style=flat-square&labelColor=0F172A)
+
+<br/>
+
+*"Everything will be fine in the end. If it's not fine, it's not the end."*
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+---
+
+<br/>
+
+## About
+
+Software Engineering student at **FPT University HCMC**, building toward a career as a **Full-Stack and Mobile Developer**. I build apps end-to-end, with my core strength in the **backend**: designing APIs, modeling data, handling authentication and realtime communication with **ASP.NET Core** and **Node.js** — then connecting it all to clean **React / Next.js** frontends.
+
+**Vice President of F-Code Club**, where I help lead a developer community built around real-world projects, technical growth and collaborative learning. **Champion of R.ODE Battle 2025**, because I enjoy high-pressure problem solving where both speed and clear thinking matter.
+
+I don't just aim to write code that works today. I aim to build systems that are **structured, maintainable and ready to scale** — code a team can keep building on.
+
+<br/>
+
+<div align="center">
+
+| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+|:---:|:---:|:---:|:---:|:---:|
+| **33** | **6+** | **3** | **1st** | **VP** |
+| Public Repositories | Team Projects | Organizations | R.ODE Battle 2025 | F-Code Club |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## Experience
+
+**Frontend Developer Intern** · [VNZ Company (vnzdna technology)](https://github.com/TaskCoper)<br/>
+`05/2026 – Present` · Vietnam
+
+Building production web frontends with **React** and **TypeScript** in a real product team — turning designs into responsive interfaces, integrating backend APIs, and shipping features through code review.
+
+| Project | Contribution | Stack |
+|:---|:---|:---|
+| **BMT** | Frontend features and UI integration | `React` `TypeScript` |
+| **Hoa Theo Mùa** | Frontend work and project documentation | `TypeScript` |
+
+<br/>
+
+---
+
+<br/>
+
+## Roles & Education
+
+| | Role | Organization | Note |
+|:---|:---|:---|:---|
+| **Frontend Developer Intern** | Software Engineering | [VNZ Company · vnzdna technology](https://github.com/TaskCoper) | Since 05/2026 · BMT · Hoa Theo Mùa |
+| **Vice President** | Club Leadership | F-Code Club · FPT University HCMC | Since 05/2025 · Community direction · Technical activities · Events |
+| **Backend Developer** | Team Projects | Pegaxus · Meetly · SmartCenter | API design · Database modeling · Authentication · Team of 5 |
+| **Core Member** | Team Organization | [HKBDU](https://github.com/HKBDU) | Pegaxus · Meetly · SmartHome IoT · OCR · Shared auth module |
+| **Backend Developer** | Project Organization | [SmartCenter-System](https://github.com/SmartCenter-System) | Backend API (C#) paired with a TypeScript frontend |
+| **Champion** | Competitive Programming | R.ODE Battle 2025 | 1st place |
+| **Student** | B.Sc. Software Engineering | FPT University · Ho Chi Minh City | 2024 – 2028 · In Progress |
+
+<br/>
+
+---
+
+<br/>
+
+## Projects
+
+### Team Projects
+
+- **Pegaxus** · `SWP391 Capstone` `ASP.NET Core` `React` `TypeScript`: A **cross-border racehorse transport platform** covering bookings, route planning, quarantine compliance and billing. Capstone project of a 5-member team at FPT University — I own the **backend**: API architecture, database design and business logic for the booking-to-billing workflow. [Frontend repo](https://github.com/HKBDU/pegaxus-fe) <!-- TODO: thêm link repo backend nếu public -->
+- **[Meetly](https://github.com/HKBDU/Meetly)** · `TypeScript`: Group scheduling platform. Create an event, share a link, let everyone mark their availability, and the system automatically highlights the time slots that work best for the whole group. Backend Developer in a team of 5.
+- **[SmartCenter](https://github.com/SmartCenter-System/BE_SmartCenter)** · `C#` `ASP.NET Core` `TypeScript`: Full-stack management system split into a C# backend ([BE_SmartCenter](https://github.com/SmartCenter-System/BE_SmartCenter)) and a TypeScript frontend ([FE_SmartCenter](https://github.com/SmartCenter-System/FE_SmartCenter)). I built the backend API — endpoints, data layer and business rules. <!-- TODO: mô tả SmartCenter quản lý gì -->
+- **[Accrue Merit](https://github.com/161seconds/accrue-merit)** · `React` `Three.js` `Express` `MongoDB`: Gamified mindfulness & karma web app featuring a **3D Karma Tree**, virtual wooden fish, incense simulation and daily spiritual tasks. Built in collaboration with [@161seconds](https://github.com/161seconds).
+- **[SmartHome IoT](https://github.com/HKBDU/SmartHome_IOT)** · `JavaScript` `IoT`: Smart home system built for the Internet of Things course — connecting devices to a web interface for monitoring and control.
+
+### Engineering Modules & Experiments
+
+- **Realtime Location Tracking** · `ASP.NET Core` `SignalR` `React` `Geoapify`: Live GPS tracking feature that streams location updates from server to client over SignalR and renders them on an interactive map.
+- **[Authenticate with Google](https://github.com/Hank62-dev/Authenticate-with-Google)** · `C#` `ASP.NET Core` `OAuth 2.0`: Google sign-in integration for ASP.NET Core — OAuth flow, callback handling and user session management. Adopted into the [HKBDU](https://github.com/HKBDU/Authenticate-with-Google) team organization and forked by other developers.
+- **[Ritual Server](https://github.com/Hank62-dev/Ritual-Server)** · `TypeScript` `Node.js`: Server-side service written in TypeScript. <!-- TODO: mô tả server này làm gì -->
+- **[OCR Testing](https://github.com/HKBDU/Optical-Character-Recognition-Testing)** · `Python`: Experiments with Optical Character Recognition — extracting text from images, scanned documents and PDFs.
+- **[Personal Portfolio](https://hank62dev.vercel.app/)** · `Next.js` `Vercel`: My personal site showcasing projects, skills and experience.
+
+<br/>
+
+---
+
+<br/>
+
+## Achievements & Leadership
+
+| | |
+|:---|:---|
+| **Champion · R.ODE Battle 2025** | First place in a competitive problem-solving contest, under time pressure. |
+| **Vice President · F-Code Club** | Helping lead one of FPT University HCMC's developer communities: planning technical activities, supporting members and growing a culture of building real projects. |
+| **Team Backend Lead Experience** | Backend owner across multiple 5-member team projects, coordinating API contracts with frontend teammates. |
+| **GitHub Achievements** | Pull Shark ×3 · Pair Extraordinaire · Quickdraw · YOLO |
+
+<br/>
+
+---
+
+<br/>
+
+## How I Build
+
+> **Structure first.** Clear separation between controllers, services and data access so features stay easy to change.
+>
+> **APIs as contracts.** Consistent RESTful endpoints, predictable responses and validation at the boundary — so frontend and mobile clients can rely on them.
+>
+> **Secure by default.** Authentication and authorization (JWT, OAuth 2.0) are designed in from the start, not bolted on later.
+>
+> **Realtime when it matters.** WebSockets / SignalR for features where users expect live updates.
+>
+> *Code that works is the minimum. Code that a team can maintain and scale is the goal.*
+
+Areas of focus: `RESTful API Design` &nbsp;`Database Modeling` &nbsp;`Authentication & Authorization` &nbsp;`Realtime Systems` &nbsp;`Team Collaboration (Git Flow)`
+
+<br/>
+
+---
+
+<br/>
+
+## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,nodejs,express,react,nextjs,tailwind,mysql,postgres,mongodb,redis,docker,git,figma&theme=dark&perline=15" />
+
+<br/><br/>
+
+| Layer | Technologies |
+|:---|:---|
+| **Primary Languages** | C# · TypeScript · JavaScript |
+| **Backend** | ASP.NET Core · .NET · Node.js · Express.js |
+| **Realtime & Auth** | SignalR · JWT · OAuth 2.0 (Google) |
+| **Frontend** | React · Next.js · Tailwind CSS · Bootstrap · HTML5 · CSS3 |
+| **Database & Cache** | MySQL · PostgreSQL · MongoDB · Redis |
+| **Infrastructure & Deploy** | Docker · Vercel · Render |
+| **Other Languages** | Java · C++ · C · Python |
+| **Tooling** | Git · GitHub · Figma · DBeaver · CMake |
+| **Currently Learning** | Mobile Development |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## Currently
+
+- Working as a **Frontend Developer Intern** at **VNZ Company**, building BMT and Hoa Theo Mùa
+- Building the backend for **Pegaxus**, my SWP391 capstone project
+- Implementing **realtime location tracking** with ASP.NET Core SignalR
+- Expanding into **mobile development** to deliver complete end-to-end products
+- Leading technical activities at **F-Code Club**
+
+<br/>
+
+---
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Hank62-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=89B4FA&icon_color=89B4FA&text_color=CBD5E1"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hank62-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=89B4FA&text_color=CBD5E1"/>
+
+</div>
+
+<div align="center">
+
+<img width="46%" src="https://streak-stats.demolab.com?user=Hank62-dev&theme=tokyonight&hide_border=true&background=0F172A&ring=89B4FA&fire=89B4FA&currStreakLabel=89B4FA&sideLabels=A6ADC8&stroke=334155&dates=7F849C&sideNums=CDD6F4&currStreakNum=CDD6F4"/>
+
+</div>
+
+<div align="center">
+
+<img width="90%" src="https://raw.githubusercontent.com/Hank62-dev/Hank62-dev/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+Open to · Full-Stack / Mobile Opportunities · Team Projects · Technical Collaboration · Community Events
+
+<br/><br/>
+
+[![](https://img.shields.io/badge/Get_in_touch_→_huyvog6226@gmail.com-89B4FA?style=for-the-badge&labelColor=0F172A)](mailto:huyvog6226@gmail.com)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:020617&height=100&section=footer" width="100%"/>
+
+</div>
